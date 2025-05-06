@@ -13,6 +13,7 @@ Il s'agit d'un projet personnel destiné à renforcer mes compétences en analys
 - Python (Pandas, Matplotlib / Seaborn / Plotly)
 - Jupyter Notebook
 - [Dataset Inside Airbnb – Paris](https://insideairbnb.com/paris/)
+- Google Data Studio (To visualize data)
 
 ## À venir
 - Cartographie des prix par arrondissement
