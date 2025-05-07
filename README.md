@@ -7,13 +7,13 @@ Il s'agit d'un projet personnel destiné à renforcer mes compétences en analys
 - Explorer les données disponibles sur les annonces Airbnb à Paris
 - Réaliser une analyse descriptive (prix, types de logements, localisation)
 - Créer des visualisations interactives et/ou statiques
-- Publier des insights sur LinkedIn de manière pédagogique
+- Prédire le prix d'un logement en fonction des variables disponibles (type de logement, nombre de chambres, localisation, etc.)
 
 ## Stack utilisée
-- Python (Pandas, Matplotlib / Seaborn / Plotly)
+- Python (Pandas, Matplotlib / Seaborn / Plotly / Steamlit / Tensorflow / Keras)
 - Jupyter Notebook
 - [Dataset Inside Airbnb – Paris](https://insideairbnb.com/paris/)
-- Google Data Studio (To visualize data)
+- Google Data Studio (pour visualiser les données)
 
 ## À venir
 - Cartographie des prix par arrondissement
